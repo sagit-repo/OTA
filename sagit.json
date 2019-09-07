@@ -1,13 +1,14 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.8-20190903-sagit-Unofficial.zip",
+      "filename": "Havoc-OS-v2.8-20190907-sagit-Unofficial.zip",
       "version": "v2.8",
       "romtype": "Unofficial",
-      "size": "654686343",
-      "datetime": 1567536522,
-      "id": "0113a26d42a3abebcfbe725125d8f88ae644eb44cbba9e4ad76413c124f2ba31",
-      "url": "https://sourceforge.net/projects/havoc-sagit/files/Havoc-OS-v2.8-20190903-sagit-Unofficial.zip/download"
+      "size": "655452681",
+      "datetime": 1567830544,
+      "id": "634da93aec28fa0959377409871a71965a348d5072bf4fc1e478eabb67dc6c8c",
+      "url": "https://sourceforge.net/projects/havoc-sagit/files/Havoc-OS-v2.8-20190907-sagit-Unofficial.zip/download"
     }
   ]
 }
+
