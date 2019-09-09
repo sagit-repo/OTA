@@ -1,3 +1,6 @@
+====================
+     09-09-2019
+====================
 • Merged September security patch
 • Added New Recorder app with audio support
 • Added Lockscreen Date styles
