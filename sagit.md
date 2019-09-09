@@ -1,8 +1,9 @@
 ====================
      09-09-2019
 ====================
-• Merged September security patch
+
 • Added New Recorder app with audio support
+• Merged September security patch
 • Added Lockscreen Date styles
 • Added OP gestures haptic feedback toggle
 • Added Circle battery style from PA
