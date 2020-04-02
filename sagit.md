@@ -41,9 +41,6 @@ b072a71 pixelstyle: update AncientLinesAndroidOverlay
    * packages/apps/Longshot/
 7136604 longshot: fix icon edit
 
-   * vendor/gapps/
-b66e1ce gapps: update Play Store.
-
 =======================
      2020/03/28
 =======================
@@ -51,6 +48,9 @@ b66e1ce gapps: update Play Store.
 
    * packages/apps/AncientWallpaperZone/
 d8ae02f AncientWallpaperZone: fixed layout implementation
+
+   * vendor/gapps/
+b66e1ce gapps: update Play Store.
 
 =======================
      2020/03/27
@@ -141,3 +141,5 @@ c22ba70 Add power hints for FHD480 and HD960
 =======================
      2020/03/20
 =======================
+
+
