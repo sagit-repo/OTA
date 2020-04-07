@@ -8,4 +8,7 @@ Changelog:
 - Update AncientWallpaperZone.apk
 
 Device:
-- We're Official Now
+- Fix Screen Cast
+- Fix system info show for GPU and CPU
+- Fix Parrot Camera
+- Fix more Nerverallows
